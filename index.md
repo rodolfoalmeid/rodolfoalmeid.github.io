@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+I have created this site to record my studies and create procedures related to the tests I did.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I am a DevOps enthusiatic and now working as a Support Engineer at Suse and trying to get as much as possible knowledge in this area.
