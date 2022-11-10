@@ -1,5 +1,7 @@
 ## kubctl common commands
 
+Here are some commands that I normlly use all day to access, work and troubleshoot a Kubernetes cluster.
+
 export KUBECONFIG=~/.kube/nv-rodolfo-lab1.yaml
 
 kubectl get nodes
