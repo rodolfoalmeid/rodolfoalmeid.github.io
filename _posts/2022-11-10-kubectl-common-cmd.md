@@ -4,8 +4,9 @@
 
 ---
 
+``` kubernetes
 export KUBECONFIG=~/.kube/nv-rodolfo-lab1.yaml
-
+```
 kubectl get nodes
 
 kubectl get nodes -o wide
