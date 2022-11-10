@@ -33,7 +33,7 @@ Now you can click “Create repository from template”.
 
 Like this: https://chadblogtest.github.io
 
---
+---
 
 ## Customization
 It’s great and all that you have this fancy blog now…but, you probably don’t want your site saying “Default Author Name” all over the place, and you probably want to change the blogs name to something other than “My Blogs Name”.
@@ -52,7 +52,7 @@ Open up index.md, hit the edit button, and start writing. If you know how to use
 
 You might be tempted to immediately go to your site to look at the changes, but like I mentioned earlier, you need to wait a minute or two for GitHub to detect that you made changes, and then it needs to rebuild your site. But eventually, you’ll see the changes.
 
---
+----
 
 ## Your first blog post
 You may or may not have noticed, there’s already a blog post in there. Take a minute to look at it in the browser, maybe even view it on your phone to see how it looks.
