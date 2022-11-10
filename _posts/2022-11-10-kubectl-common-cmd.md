@@ -1,6 +1,8 @@
 ## kubctl common commands
 
-Here are some commands that I normlly use all day to access, work and troubleshoot a Kubernetes cluster.
+### Here are some commands that I normlly use all day to access, work and troubleshoot a Kubernetes cluster.
+
+---
 
 export KUBECONFIG=~/.kube/nv-rodolfo-lab1.yaml
 
